@@ -2,7 +2,7 @@
   "name": "oak-branch",
   "version": "1.0.0",
   "main": "dist/main.js",
-  "sideEffects": false,
+  "module": "dist/main.js",
   "scripts": {
     "build": "webpack"
   },

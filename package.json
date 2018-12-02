@@ -2,6 +2,7 @@
   "private": true,
   "workspaces": [
     "app",
-    "oak-branch"
+    "oak-branch",
+    "shaky"
   ]
 }
